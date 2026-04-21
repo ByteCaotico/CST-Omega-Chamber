@@ -1,29 +1,30 @@
 OMEGA CHAMBER - LICENSE & USAGE TERMS
-
-This project is protected by international copyright laws and is released under a specific legal framework to ensure the integrity of the "Omega Chamber" world-building and code.
+This project is released under an open legal framework to encourage community growth while ensuring the "Omega Chamber" world-building remains accessible to all.
 
 License
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
 
-To view a copy of this license, visit: 
-[http://creativecommons.org/licenses/by-nc-nd/4.0/](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-sa/3.0/
 
----
+How this License Works (The Rules)
+By accessing, using, or modifying this code and lore, you agree to the following:
 
-🚫 Usage Restrictions (The Rules)
+Attribution (Credit): You must give appropriate credit to the original creator. You should provide a link back to this repository or the official Omega Chamber terminal.
 
-By accessing or downloading this code, you agree to the following terms:
+ShareAlike: If you remix, transform, or build upon the material (changing the CSS, adding new anomalies, or rewriting the lore), you must distribute your contributions under the same license (CC BY-SA 3.0).
 
-1. Attribution (Credit): You must give appropriate credit to the original creator. You may do this by linking back to this repository or the official Omega Chamber terminal.
-2. Non-Commercial: You may not use this material for commercial purposes. This includes selling the code, using it in monetized videos, or charging for access to the interface.
-3. No Derivatives (No Remixing): You may view and present the code, but you **cannot** share or publish a modified version of this terminal. If you change the code, colors, or lore, the resulting work is for your private use only and may not be distributed.
-4. No Re-Publishing: You are permitted to present the website (e.g., in a screen-share, presentation, or video), but you are strictly prohibited from re-hosting the files on your own server/website or claiming the source code as your own creation.
+Commercial Use: Under this license, others are permitted to use this material for commercial purposes (such as in monetized videos or games), provided they follow the attribution and ShareAlike rules.
+
+Re-Publishing: Others are allowed to re-host or re-distribute this code, but they can never claim they are the original authors.
 
 Permissions
 ✅ YES: Presenting the website in a stream, video, or classroom.
-✅ YES: Using the website as a personal prop for tabletop RPGs or storytelling.
-❌ NO: Re-uploading the `index.html` to your own GitHub/Netlify/Vercel and sharing the link as yours.
-❌ NO: Selling access to the CSS/HTML templates.
 
----
-Failure to comply with these terms may result in a formal DMCA takedown request or legal action to protect the intellectual property of the Omega Chamber.
+✅ YES: Modifying the code to create your own "Chamber" or faction.
+
+✅ YES: Writing stories or making games based on this lore.
+
+✅ YES: Sharing your modified version of the terminal with the world.
+
+By releasing this under CC BY-SA 3.0, the Omega Chamber becomes a living project. We invite you to expand the database, but you must always leave the door open for others to do the same.
